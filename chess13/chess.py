@@ -9,6 +9,7 @@ pygame.font.init()
 pygame.mixer.init()
 
 # loading sounds
+print("Navneet the OG chess player")
 move_sound = pygame.mixer.Sound('move-self.mp3')
 
 #constants
